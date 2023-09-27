@@ -66,6 +66,14 @@ PUBLIC_FRONT_URL="http://localhost:3333"
 
 The **CLIENT_ID** and the **CLIENT_SECRET** is only used to connect a user by the **42 OAuth system**. Take yours to try to system.  
 
+## Collaborators
+
+This project was carried out by 4 others people:  
+[Xavier Le-baux](https://github.com/Xavier-LB "Xavier Le-baux")  
+[Julia Batoro](https://github.com/Clivassy "Julia Batoro")  
+[Yann Bellot](https://github.com/YannRepo "Yann Bellot")  
+[Nicolas Mattera](https://github.com/niko-mttr "Nicolas Mattera")
+
 ## Screenshots
 
 <img width="1792" alt="SCR-20230926-mjbv" src="https://github.com/William-Dbt/ft_transcendence_/assets/16923245/a7ffce8b-f087-466d-b048-4c653e47c521">
