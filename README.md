@@ -1,5 +1,7 @@
 # 🖱 42Paris Project | ft_transcendence
 
+<img src="https://github.com/William-Dbt/ft_transcendence/blob/main/files/SCR_title.png">
+
 ## Objectives
 
 This project is about creating a **website** that implements a **chat**, the mighty **pong game** and an **authentication** system with 42API.  
@@ -76,9 +78,9 @@ This project was carried out by 4 others people:
 
 ## Screenshots
 
-<img width="1792" alt="SCR-20230926-mjbv" src="https://github.com/William-Dbt/ft_transcendence_/assets/16923245/a7ffce8b-f087-466d-b048-4c653e47c521">
-<img width="1774" alt="SCR-20230926-mnid" src="https://github.com/William-Dbt/ft_transcendence_/assets/16923245/4a2508dc-575f-4332-be0a-ef0457b17512">
-<img width="516" alt="SCR-20230926-mjih" src="https://github.com/William-Dbt/ft_transcendence_/assets/16923245/866ae810-fb79-43b0-b3a8-c5c66d2624f3">
-<img width="1286" alt="SCR-20230926-mjnk" src="https://github.com/William-Dbt/ft_transcendence_/assets/16923245/e845f49d-a94c-4882-8f5b-03432ad8ac3c">
-<img width="1594" alt="SCR-20230926-mklg" src="https://github.com/William-Dbt/ft_transcendence_/assets/16923245/6661669c-dee3-4a0d-b338-3e9ceb321646">
-<img width="545" alt="SCR-20230926-mkuj" src="https://github.com/William-Dbt/ft_transcendence_/assets/16923245/35a797ea-dd3d-4e9f-a590-3895c9902df8">
+<img src="https://github.com/William-Dbt/ft_transcendence/blob/main/files/SCR_home.png">
+<img src="https://github.com/William-Dbt/ft_transcendence/blob/main/files/SCR_pong.png">
+<img src="https://github.com/William-Dbt/ft_transcendence/blob/main/files/SCR_signup.png">
+<img src="https://github.com/William-Dbt/ft_transcendence/blob/main/files/SCR_profile.png">
+<img src="https://github.com/William-Dbt/ft_transcendence/blob/main/files/SCR_chat.png">
+<img src="https://github.com/William-Dbt/ft_transcendence/blob/main/files/SCR_channels.png">
