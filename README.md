@@ -37,9 +37,9 @@ When a user wins a match he earns a point. On the other hand, when he loses a ma
 ## Usage
 
 `make` to start docker files with docker-compose.  
-`fclean` to clean all containers stuff (images, networks...).  
-`restart` to restart all containers.  
-`logdatabase, logback and logfront` will respectively shows container of the database, the backend and the frontend logs. It is usefull when you can't have Docker Desktop (not installed on 42's computers).  
+`make fclean` to clean all containers stuff (images, networks...).  
+`make restart` to restart all containers.  
+`make logdatabase, logback or logfront` will respectively shows container of the database, the backend and the frontend logs. It is usefull when you can't have Docker Desktop (not installed on 42's computers).  
 
 The **website** is accessible at the address http://localhost:3333/ once containers are up.  
 You can access the **database** at http://localhost:5555/ (thanks **prisma studio**).  
